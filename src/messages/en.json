@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Rami Thani — Engineering. Projects. Operations. Leadership.",
+    "description": "Rami Thani — a strategic and execution-driven leader bridging engineering, project management, and business operations."
+  },
+  "nav": {
+    "journey": "Journey",
+    "impact": "Impact",
+    "work": "Projects",
+    "expertise": "Expertise",
+    "ventures": "Ventures",
+    "contact": "Contact",
+    "switchLang": "العربية"
+  },
+  "hero": {
+    "name": "Rami Thani",
+    "tagline": "Engineering. Projects. Operations. Leadership.",
+    "statement": "Bridging engineering, business operations, and strategic execution to turn vision into measurable results.",
+    "ctaPrimary": "Explore My Journey",
+    "ctaSecondary": "Download Executive Profile",
+    "scrollHint": "Keep scrolling"
+  },
+  "journey": {
+    "eyebrow": "One Journey. Multiple Disciplines.",
+    "title": "One Journey. Multiple Disciplines."
+  },
+  "impact": {
+    "eyebrow": "Selected Impact",
+    "title": "Experience Measured Through Impact."
+  },
+  "projects": {
+    "eyebrow": "Selected Projects",
+    "title": "Selected Projects & Professional Experience.",
+    "status": {
+      "completed": "Completed",
+      "beta": "Beta",
+      "ongoing": "Ongoing"
+    },
+    "labels": {
+      "overview": "Overview",
+      "context": "Context",
+      "challenge": "Challenge",
+      "role": "My Role & Responsibilities",
+      "strategy": "Strategy & Execution",
+      "achievements": "Key Achievements",
+      "results": "Measurable Results",
+      "visit": "Visit site"
+    }
+  },
+  "expertise": {
+    "eyebrow": "Technical knowledge, business execution",
+    "title": "Connecting Technical Knowledge with Business Execution."
+  },
+  "ventures": {
+    "eyebrow": "Beyond Projects",
+    "title": "Building Ventures.",
+    "statement": "Alongside executive roles, I build business initiatives from idea to structured product.",
+    "moreSoon": "Additional ventures in development."
+  },
+  "contact": {
+    "eyebrow": "Let's Talk",
+    "title": "Let's Turn Vision Into Results.",
+    "statement": "Open to meaningful professional opportunities, strategic collaborations, and conversations that create lasting value.",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "downloadCv": "Download Executive Profile (PDF)",
+    "cvUnavailable": "This button activates once the executive profile is uploaded"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
